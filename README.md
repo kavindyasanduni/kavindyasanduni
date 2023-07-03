@@ -1,9 +1,9 @@
 
 
-[![MasterHead](https://https://www.artstation.com/artwork/ealoG.)]
+[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112.)]
 <h1 align="center">Hi 👋, I'm Sanduni Imaduwa</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/717268678168057748/">
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindyasanduni&label=Profile%20views&color=0e75b6&style=flat" alt="kavindyasanduni" /> </p>
 
