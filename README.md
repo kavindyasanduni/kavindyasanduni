@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif" alt="MasterHead">
+  
 </div>
 <h1 align="center">Hi 👋, I'm Sanduni Imaduwa</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
